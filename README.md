@@ -5,14 +5,11 @@ The ShareIT Website is the frontend part of the ShareIT application, providing a
 ## ✨ Features
 - ✅ **User Interface for Subscription Sharing** – Easy-to-use interface for connecting with other users to share accounts
 - ✅ **Group Management** – Create and manage groups to share subscriptions easily
-- ✅ **Secure Payment Integration** – Manage payments securely and efficiently for shared subscriptions
 - ✅ **Responsive Design** – Optimized for both desktop and mobile devices
 
 ## 🛠️ Technologies Used
 - 🔹 **Frontend:** HTML, CSS, JavaScript
 - 🔹 **Backend:** PHP (Communicates with ShareIT API)
-- 🔹 **Authentication:** JWT (JSON Web Token)
-- 🔹 **Payment Gateway:** Stripe API
 
 ## 🚀 How to Run the Project
 1. Clone this repository to your local machine:
@@ -23,5 +20,5 @@ The ShareIT Website is the frontend part of the ShareIT application, providing a
 3. If you are using it with the ShareIT application backend, ensure the API and database are set up and connected properly.
 
 ## 📬 Contact
-- 📧 **Email:** your-email@example.com
+- 📧 **Email:** tomaskotik08@gmail.com
 - 🌐 **GitHub:** [github.com/trix-code](https://github.com/trix-code)
